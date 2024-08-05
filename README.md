@@ -15,7 +15,7 @@ This project combines Astro's powerful static site generation capabilities with 
 
 You can run this project directly in your browser without any local setup:
 
-[Run on StackBlitz](https://stackblitz.com/edit/astro-rehype-shiki-transformers)
+[Run on StackBlitz](https://stackblitz.com/edit/astro-shiki-transformers)
 
 This StackBlitz link allows you to instantly explore and experiment with the project in a live development environment.
 
