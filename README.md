@@ -1,10 +1,23 @@
-# Astro with @shikijs/transformers
+# Astro Framework with @shikijs/transformers
 
 This project is based on the Astro framework and uses @shikijs/transformers for advanced code highlighting and formatting.
+
+## Tech Stack
+
+- [Astro.js](https://astro.build/)
+- [@shikijs/transformers](https://shiki.style/guide/transformers)
 
 ## Project Overview
 
 This project combines Astro's powerful static site generation capabilities with Shiki's advanced code highlighting features. By adding @shikijs/transformers, you can create richer and more interactive code blocks compared to plain Shiki.
+
+## Quick Start
+
+You can run this project directly in your browser without any local setup:
+
+[Run on StackBlitz](https://stackblitz.com/edit/astro-rehype-shiki-transformers)
+
+This StackBlitz link allows you to instantly explore and experiment with the project in a live development environment.
 
 ## Key Features
 
@@ -16,12 +29,9 @@ Using @shikijs/transformers, you can leverage advanced code representation featu
 
 These features make code examples clearer and easier to understand.
 
-## Tech Stack
+## Local Installation
 
-- [Astro.js](https://astro.build/)
-- [@shikijs/transformers](https://shiki.style/guide/transformers)
-
-## Installation
+If you prefer to run the project locally:
 
 1. Clone this repository:
 
