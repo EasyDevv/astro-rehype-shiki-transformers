@@ -1,4 +1,4 @@
-# Astro Framework with @shikijs/transformers
+# Astro with @shikijs/transformers
 
 This project is based on the Astro framework and uses @shikijs/transformers for advanced code highlighting and formatting.
 
